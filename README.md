@@ -1,15 +1,14 @@
 # Training-for-Placement 
 This repository is to prepare students for better placement
-## [Linkedin](https://www.linkedin.com/company/tpcbiet/)
-## [Facebook](https://www.facebook.com/tpcbietsss)
-## [whatsapp](https://whatsapp.com/channel/0029VaEufoh77qVWyvuClS3C)
+### [Linkedin](https://www.linkedin.com/company/tpcbiet/), [Facebook](https://www.facebook.com/tpcbietsss), [whatsapp](https://whatsapp.com/channel/0029VaEufoh77qVWyvuClS3C)
 
+## Pre-preparation
 
-# year-wise placement-preparation plan for an undergraduate engineering student at BIET Jhansi
+## year-wise placement-preparation plan for an undergraduate engineering student at BIET Jhansi
 
 ## Overview — goals by year
 ### Year 1 (Anukulan : Foundations):
-Academic foundation, basic programming & communication, time management, exploratory internships/competitions.
+Academic foundation, basic programming & communication, time management, exploratory internships/competitions, start aptitude preparation.
 
 ### Year 2 (Prakharan: Skill building): 
 Strengthen core subjects, start coding & domain courses, small projects, Github portfolio, technical clubs.
