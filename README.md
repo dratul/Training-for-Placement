@@ -1,5 +1,5 @@
 # Training-for-Placement 
-This repository is to prepare s
+This repository is to prepare students for better placement
 ## [Linkedin](https://www.linkedin.com/company/tpcbiet/)
 ## [Facebook](https://www.facebook.com/tpcbietsss)
 ## [whatsapp](https://whatsapp.com/channel/0029VaEufoh77qVWyvuClS3C)
