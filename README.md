@@ -1,4 +1,5 @@
-# Training-and-Placement Cell BIET Jhansi
+# Training-for-Placement 
+This repository is to prepare s
 ## [Linkedin](https://www.linkedin.com/company/tpcbiet/)
 ## [Facebook](https://www.facebook.com/tpcbietsss)
 ## [whatsapp](https://whatsapp.com/channel/0029VaEufoh77qVWyvuClS3C)
